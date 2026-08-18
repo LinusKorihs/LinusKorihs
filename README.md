@@ -3,7 +3,9 @@
 I am Linus (Korihs), a Junior Unity Gameplay Programmer, studying in Heidelberg, Germany. 
 I focus on C# in the Unity Engine. I made multiple games during my studies and participated in two game jams. Currently working as the only programmer in a team on a 3D-Roguelite with Procedural Generation.
 
-[Portfolio](Coming_Soon) · [Itch.io](Coming_Soon) · [Email](Coming_Soon)
+[Portfolio](Coming_Soon)
+[Itch.io](Coming_Soon)
+[Email](Coming_Soon)
 
 ## Focus
 
