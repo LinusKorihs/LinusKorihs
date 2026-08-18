@@ -17,8 +17,8 @@ I focus on C# in the Unity Engine. I made multiple games during my studies and p
 
 | Project | Focus |
 | --- | --- |
-| Remera | Unity team project, gameplay systems, companion/puzzle logic |
-| Axolite: Cursed Doubloons | Unity game, procedural generation from levels & enemies, metrics, gameplay loops |
+| Remera | Unity team project, gameplay systems, AI companion & puzzle logic |
+| Axolite: Cursed Doubloons | Unity team project, procedural generation from levels & enemies, metrics, gameplay system & loops |
 | KI Tetris | Unity + Python Q-learning experiment |
 | The Masquerade | Global Game Jam 2026 team project with disguise mechanics |
 | Chroma Quest | C++/raylib project from second semester |
