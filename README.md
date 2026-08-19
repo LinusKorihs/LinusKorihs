@@ -14,9 +14,9 @@ I focus on C# gameplay programming in Unity. During my studies, I built several 
 
 ## Featured Projects
 
-Some featured projects are maintained as portfolio documentation forks in my GitHub organization. They link back to the original repositories and focus on project documentation, media, and my own programming contributions.
+All features projects are maintained as portfolio documentation forks in my GitHub organization. They link back to the original repositories and focus on project documentation, media, and my own programming contributions.
 
-- [Portfolio Project Forks](https://github.com/Linus-Korihs-Portfolio)
+### All of the are found under [Portfolio Project Forks](https://github.com/Linus-Korihs-Portfolio)
 
 | Project | Focus |
 | --- | --- |
