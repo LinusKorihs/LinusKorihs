@@ -2,7 +2,7 @@
 
 # Servus 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2200&pause=800&color=FF7916&center=true&vCenter=true&width=850&height=80&lines=Linus+%2F+Korihs;Junior+Unity+Gameplay+%26+Systems+Programmer;Gameplay+Systems+%7C+Game+AI+%7C+Procedural+Generation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2200&pause=800&color=FF7916&center=true&vCenter=true&width=850&height=80&lines=LinusKorihs;Junior+Unity+Gameplay+%26+Systems+Programmer;Gameplay+Systems+%7C+Game+AI+%7C+Procedural+Generation)](https://git.io/typing-svg)
 
 ### I focus on C# gameplay programming in Unity, especially player mechanics, gameplay systems, AI/algorithms and interactive prototypes.
 
