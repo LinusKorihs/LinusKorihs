@@ -1,8 +1,20 @@
-# Servus
+<div align="center">
 
-I am Linus Korihs, a Junior Unity Gameplay Programmer studying in Heidelberg, Germany.
+# Servus 👋
 
-I focus on C# gameplay programming in Unity. During my studies, I built several university game projects and participated in two game jams. I am currently working as the only programmer in a team on a 3D roguelite with procedural generation.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2200&pause=800&color=FF7916&center=true&vCenter=true&width=850&height=80&lines=Linus+%2F+Korihs;Junior+Unity+Gameplay+%26+Systems+Programmer;Gameplay+Systems+%7C+Game+AI+%7C+Procedural+Generation)](https://git.io/typing-svg)
+
+### I focus on C# gameplay programming in Unity, especially player mechanics, gameplay systems, AI/algorithms and interactive prototypes.
+
+### [Itch.io](https://korihs.itch.io) · [Portfolio Project Forks](https://github.com/Linus-Korihs-Portfolio) · Portfolio coming soon · Email coming soon
+
+</div>
+
+## Technologies & Tools
+
+<div align ="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,kotlin,androidstudio,git,github,vscode,visualstudio,obsidian", style=width="200px; height=100px"/>
+</div>
 
 ## Focus
 
@@ -10,27 +22,19 @@ I focus on C# gameplay programming in Unity. During my studies, I built several 
 - Player mechanics, interaction systems, UI and game feel
 - Gameplay systems, physics mechanics and interactions
 - Custom in-game AI/algorithms, including Q-learning experiments
-- System and Scene manager for controlled content managing
+- Scene and system management for structured gameplay flow
 
 ## Featured Projects
 
-All features projects are maintained as portfolio documentation forks in my GitHub organization. They link back to the original repositories and focus on project documentation, media, and my own programming contributions.
+The featured projects below are maintained as portfolio documentation forks in my GitHub organization. They link back to the original repositories and focus on project documentation, media, and my own programming contributions.
 
-### All of the are found under [Portfolio Project Forks](https://github.com/Linus-Korihs-Portfolio)
-
-### Featured Project Links
+<br>
 
 | Project | Focus |
 | --- | --- |
 | [Axolite: Cursed Doubloons](https://github.com/Linus-Korihs-Portfolio/Axolite-Cursed-Doubloons) | Unity 3D roguelite, procedural level generation, companion AI, enemy systems |
 | [Remera](https://github.com/Linus-Korihs-Portfolio/Remera) | Unity 3D puzzle adventure, companion AI, NavMesh pathfinding, puzzle systems |
-| [KI Tetris](https://github.com/Linus-Korihs-Portfolio/AI-Tetris) | Unity + Own AI, trained with Python Q-learning |
+| [KI Tetris](https://github.com/Linus-Korihs-Portfolio/AI-Tetris) | Unity + Python Q-learning agent |
 | [The Masquerade](https://github.com/Linus-Korihs-Portfolio/Global-Game-Jam-2026) | Global Game Jam 2026 project with disguise mechanics and NPC AI |
 | [Chroma Quest: The Lost Colors](https://github.com/Linus-Korihs-Portfolio/Chroma-Quest-The-Lost-Colors) | C++/raylib 2D puzzle adventure from second semester |
 | [Froject: Yeehaw!](https://github.com/Linus-Korihs-Portfolio/Froject-Yeehaw) | Unity 2D platformer focused on grappling hook movement and momentum |
-
-## Links
-
-- [Portfolio](Coming_Soon)
-- [Itch.io](https://korihs.itch.io)
-- [Email](Coming_Soon)
