@@ -25,7 +25,7 @@ Some featured projects are maintained as portfolio documentation forks in my Git
 | --- | --- |
 | [Axolite: Cursed Doubloons](https://github.com/Linus-Korihs-Portfolio/Axolite-Cursed-Doubloons) | Unity 3D roguelite, procedural level generation, companion AI, enemy systems |
 | [Remera](https://github.com/Linus-Korihs-Portfolio/Remera) | Unity 3D puzzle adventure, companion AI, NavMesh pathfinding, puzzle systems |
-| [KI Tetris](https://github.com/Linus-Korihs-Portfolio/AI-Tetris) | Unity + Python Q-learning experiment |
+| [KI Tetris](https://github.com/Linus-Korihs-Portfolio/AI-Tetris) | Unity + Own AI, trained with Python Q-learning |
 | [The Masquerade](https://github.com/Linus-Korihs-Portfolio/Global-Game-Jam-2026) | Global Game Jam 2026 project with disguise mechanics and NPC AI |
-| [Chroma Quest](https://github.com/Linus-Korihs-Portfolio/Chroma-Quest-The-Lost-Colors) | C++/raylib 2D puzzle adventure from second semester |
+| [Chroma Quest: The Lost Colors](https://github.com/Linus-Korihs-Portfolio/Chroma-Quest-The-Lost-Colors) | C++/raylib 2D puzzle adventure from second semester |
 | [Froject: Yeehaw!](https://github.com/Linus-Korihs-Portfolio/Froject-Yeehaw) | Unity 2D platformer focused on grappling hook movement and momentum |
