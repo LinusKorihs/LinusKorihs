@@ -13,7 +13,7 @@
 ## Technologies & Tools
 
 <div align ="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,kotlin,androidstudio,git,github,vscode,visualstudio,obsidian", style=width="200px; height=100px"/>
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,kotlin,androidstudio,git,github,vscode,visualstudio,obsidian"; style=width="200px; height=100px"/>
 </div>
 
 ## Focus
