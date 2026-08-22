@@ -6,7 +6,7 @@
 
 ### I focus on C# gameplay programming in Unity, especially player mechanics, gameplay systems, AI/algorithms and interactive prototypes.
 
-### [Itch.io](https://korihs.itch.io) · [Portfolio Project Forks](https://github.com/Linus-Korihs-Portfolio) · [Portfolio](Linustheuringer.com) · Email coming soon
+### [Itch.io](https://korihs.itch.io) · [Portfolio Project Forks](https://github.com/Linus-Korihs-Portfolio) · [Portfolio](https://Linustheuringer.com) · Email coming soon
 
 </div>
 
