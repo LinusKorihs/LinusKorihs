@@ -14,6 +14,7 @@
 
 <div align ="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,kotlin,androidstudio,git,github,vscode,visualstudio,obsidian"; style=width="200px; height=100px"/>
+    Unity · C# · C++ · Python · Kotlin · Android Studio · Git · GitHub · Visual Studio Code · Visual Studio · Obsidian
 </div>
 
 ## Focus
